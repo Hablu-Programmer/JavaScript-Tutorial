@@ -1,0 +1,11 @@
+#JavaScript Data Types
+*JavaScript has the primitive data types:
+
+1.null
+2.undefined
+3.boolean
+4.number
+5.string
+6.symbol – available from ES2015
+7. bigint – available from ES2020
+8. a complex data type object.
